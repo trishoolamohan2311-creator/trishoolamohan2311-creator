@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hello all:)
-I'm CharuTrishoola Mohan Udaiyar
+# Hello all:) I'm CharuTrishoola Mohan Udaiyar
 
 ### Data • Economics • Statistics • Storytelling
 
