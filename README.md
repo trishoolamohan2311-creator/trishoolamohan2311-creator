@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hello:) I'm CharuTrishoola Mohan Udaiyar
+# Hello all:)
+I'm CharuTrishoola Mohan Udaiyar
 
 ### Data • Economics • Statistics • Storytelling
 
-*What's the story between the numbers and the decision.*
+*What's the story between the numbers and the decision?*
 
 </div>
