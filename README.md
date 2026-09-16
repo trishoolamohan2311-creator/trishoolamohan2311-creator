@@ -1,5 +1,8 @@
-[![Charu's little universe](https://raw.githubusercontent.com/trishoolamohan2311-creator/trishoolamohan2311-creator/main/galaxy-banner.svg)](/trishoolamohan2311-creator/trishoolamohan2311-creator/blob/main/galaxy-banner.svg)
+<div align="center">
 
+<img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
+
+<br><br>
 # CHARU TRISHOOLA
 
 ### economics · data · curiosity · analyzing
