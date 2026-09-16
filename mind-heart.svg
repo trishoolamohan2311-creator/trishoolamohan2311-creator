@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<rect width="1000" height="250" rx="18" fill="#0d1215" stroke="#2a2420"/>
+<ellipse cx="500" cy="126" rx="300" ry="82" fill="none" stroke="#ff7a1a" stroke-opacity=".30" stroke-dasharray="5 9"/>
+<circle cx="200" cy="126" r="5" fill="#ff7a1a"/><circle cx="800" cy="126" r="5" fill="#ff7a1a"/>
+<path d="M302 108 C272 78 226 96 231 137 C235 166 269 176 305 197 C340 176 367 153 362 124 C357 94 321 87 302 108Z" fill="#ff7a1a" fill-opacity=".13" stroke="#ff7a1a" stroke-width="3"/>
+<path d="M638 108 C633 83 662 70 687 82 C715 67 750 87 744 116 C766 138 744 171 711 169 C687 194 646 179 644 153 C620 142 620 118 638 108Z" fill="#ffb07c" fill-opacity=".08" stroke="#ffb07c" stroke-width="3"/>
+<path d="M654 99q28 20 3 40t32 39M695 83q-21 29 7 45t-9 43M723 104q-22 20 1 37" fill="none" stroke="#ffb07c" stroke-width="2"/>
+<text x="290" y="225" text-anchor="middle" fill="#918b83" font-family="monospace" font-size="14">heart / people</text>
+<text x="700" y="225" text-anchor="middle" fill="#918b83" font-family="monospace" font-size="14">mind / numbers</text>
+<text x="500" y="42" text-anchor="middle" fill="#ffb07c" font-family="monospace" font-size="13">both / and</text>
+</svg>

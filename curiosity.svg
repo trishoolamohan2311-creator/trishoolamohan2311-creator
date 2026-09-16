@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<rect width="1000" height="120" rx="18" fill="#0d1215" stroke="#2a2420"/>
+<text x="35" y="38" fill="#ffb07c" font-family="monospace" font-size="12">currently curious about</text>
+<g font-family="Arial" font-size="14" fill="#f4eee5">
+<rect x="35" y="57" width="145" height="34" rx="17" fill="none" stroke="#2a2420"/><text x="107" y="79" text-anchor="middle">Machine Learning</text>
+<rect x="195" y="57" width="105" height="34" rx="17" fill="none" stroke="#2a2420"/><text x="247" y="79" text-anchor="middle">Behaviour</text>
+<rect x="315" y="57" width="90" height="34" rx="17" fill="none" stroke="#2a2420"/><text x="360" y="79" text-anchor="middle">Markets</text>
+<rect x="420" y="57" width="150" height="34" rx="17" fill="none" stroke="#2a2420"/><text x="495" y="79" text-anchor="middle">Better Questions</text>
+</g>
+<path d="M650 74 C730 18 815 105 930 48" fill="none" stroke="#ff7a1a" stroke-opacity=".45" stroke-dasharray="4 8"/>
+<circle cx="930" cy="48" r="5" fill="#ff7a1a"/>
+</svg>

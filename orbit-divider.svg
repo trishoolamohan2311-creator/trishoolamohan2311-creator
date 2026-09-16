@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="54" viewBox="0 0 1000 54">
+<rect width="1000" height="54" fill="#080b0d"/>
+<line x1="40" y1="27" x2="960" y2="27" stroke="#2b2521"/>
+<ellipse cx="500" cy="27" rx="110" ry="19" fill="none" stroke="#ff7a1a" stroke-opacity=".45"/>
+<circle cx="500" cy="27" r="5" fill="#ff7a1a"/>
+<circle cx="90" cy="27" r="3" fill="#ffb07c"/>
+<circle cx="910" cy="27" r="3" fill="#ffb07c"/>
+<text x="500" y="16" text-anchor="middle" fill="#918b83" font-family="monospace" font-size="11">✦ ──── the universe expands ──── ✦</text>
+</svg>
