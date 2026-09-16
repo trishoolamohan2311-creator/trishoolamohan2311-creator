@@ -184,6 +184,11 @@ And why does *"I'll just check one thing"* almost never mean one thing?
 ---
 
 <br><br>
+---
+
+<div align="center">
+
+<br><br>
 
 ### a small thought from Adam Smith
 
@@ -195,9 +200,7 @@ And why does *"I'll just check one thing"* almost never mean one thing?
 
 **— Adam Smith, _The Theory of Moral Sentiments_**
 
-</div>
-
-<br>
+<br><br>
 
 I like this idea because numbers can tell us what people do,  
 but they don't always tell us **why it matters to them**.
@@ -205,7 +208,12 @@ but they don't always tell us **why it matters to them**.
 That's probably why I keep coming back to the space between  
 **data, decisions and people.**
 
+</div>
+
 ---
+
+<div align="center">
+
 <br><br>
 
 # currently exploring
@@ -234,15 +242,17 @@ That's probably why I keep coming back to the space between
 
 ### **ohh...**
 
-</div>
-
-<br>
+<br><br>
 
 I'm still learning, still building, and still finding new things to investigate.
 
 Which is probably the whole point.
 
+</div>
+
 ---
+
+<div align="center">
 
 <br><br>
 
