@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Charu Trishoola Mohan Udaiyar">
-
-<br>
+<img src="./assets/hero.gif" width="100%" alt="Charu Trishoola Mohan Udaiyar">
 
 </div>
-
 I'm Charu Trishoola Mohan Udaiyar.
 
 I studied Economics, and that's what got me curious about numbers and data in the first place. Somewhere along the way, figuring things out became the fun part.
