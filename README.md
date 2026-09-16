@@ -34,12 +34,10 @@ The numbers tell me *what is happening*.
 Economics makes me ask *why*.  
 And data gives me a way to investigate it.
 
-I also like making things **look clear, interesting and a little more human** —  
+I also like making things **look clear, interesting and a little more human** ->  
 which is where the small bit of design comes in.
 
 <div align="center">
-
-### hmm... → let me check one thing → ohh...
 
 <img src="https://raw.githubusercontent.com/trishoolamohan2311-creator/trishoolamohan2311-creator/main/star-divider.svg" width="100%" alt="divider">
 
