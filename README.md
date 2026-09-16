@@ -2,8 +2,6 @@
 
 <img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
 
-<br><br>
-
 # CHARU TRISHOOLA
 
 ### economics · data · curiosity · analyzing
