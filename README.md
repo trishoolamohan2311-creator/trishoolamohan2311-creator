@@ -2,17 +2,13 @@
 
 <img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
 
-<br><br>
+<br>
 
 # CHARU TRISHOOLA
 
-### economics · data · curiosity · analysis · design
-
-<br>
+### economics · data · curiosity · a little design
 
 `MUMBAI / INDIA` &nbsp; ✦ &nbsp; `NUMBERS` &nbsp; ✦ &nbsp; `QUESTIONS` &nbsp; ✦ &nbsp; `VISUALS`
-
-<br><br>
 
 </div>
 
@@ -20,13 +16,13 @@
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
+<img src="./orbit-divider.svg" width="55%" alt="orbit">
 
 </div>
 
 <br>
 
-## a little about me
+# a little about me
 
 I'm Charu Trishoola Mohan Udaiyar.
 
@@ -40,7 +36,7 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <div align="center">
 
-<img src="./mind-heart.svg" width="68%" alt="mind and heart">
+<img src="./mind-heart.svg" width="52%" alt="mind and heart">
 
 </div>
 
@@ -52,119 +48,8 @@ The numbers tell me *what is happening*.
 Economics makes me ask *why*.  
 And data gives me a way to investigate it.
 
-Somewhere along the way, I also started caring about **how things look, feel and communicate** — hence the little bit of design that keeps sneaking in.
-
----
-
-<div align="center">
-
-`OBSERVATION_01`
-
-### THE QUESTION IS USUALLY MORE INTERESTING THAN THE ANSWER.
-
-</div>
-
-<br>
-
----
-
-# things I've figured out so far
-
-Not everything here started with a perfectly formed question.
-
-Some started with a dataset.  
-Some started with an assignment.  
-Some started with:
-
-**"hmm..."**
-
-<br>
-
-<div align="center">
-
-### ◉ ZOMATO
-
-<img src="./project-01.svg" width="88%" alt="Zomato project">
-
-**Spreadsheet Analysis · Excel · Data Cleaning · Business Analysis**
-
-Explored restaurant data to understand pricing, cuisines, locations and possible expansion opportunities.
-
-<br>
-
-**[view project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ◉ COLUMBIA ASIA HOSPITAL
-
-<img src="./project-02.svg" width="88%" alt="Columbia Asia Hospital project">
-
-**SQL · Power BI · DAX · Power Query**
-
-Looked at patients, departments, waiting time, revenue and satisfaction to turn hospital data into something a little easier to understand.
-
-<br>
-
-**[view project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ◉ SOCIAL MEDIA
-
-<img src="./project-03.svg" width="88%" alt="Social media analysis project">
-
-**SQL · Engagement · User Behaviour · Data Quality**
-
-A closer look at how users interact, where engagement comes from, and what the data can actually tell us.
-
-<br>
-
-**[view project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<img src="./orbit-divider.svg" width="48%" alt="orbit">
-
-<br><br>
-
-### and then there was another rabbit hole...
-
-<br>
-
-<img src="./project-04.svg" width="72%" alt="Linear Regression and Gradient Descent">
-
-</div>
-
-### Linear Regression & Gradient Descent
-
-A small dive into the mechanics behind prediction — from drawing a line through data to understanding how a model actually learns.
-
-**Python · Statistics · Machine Learning**
-
-It made me appreciate something I keep running into:
-
-> Sometimes understanding *how* something works is more interesting than simply getting the answer.
-
----
+I also like making things **look clear, interesting and a little more human** —  
+which is where my small interest in design comes in.
 
 <br>
 
@@ -172,23 +57,90 @@ It made me appreciate something I keep running into:
 
 ### hmm... → let me check one thing → ohh...
 
-<br>
-
-`STATISTICS`
-&nbsp; ✦ &nbsp;
-`BEHAVIOUR`
-&nbsp; ✦ &nbsp;
-`ECONOMICS`
-&nbsp; ✦ &nbsp;
-`DATA`
-&nbsp; ✦ &nbsp;
-`DESIGN`
-
 </div>
 
 <br>
 
 ---
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="42%" alt="orbit">
+
+</div>
+
+<br>
+
+# things I've figured out so far
+
+Some started with a dataset.  
+Some started with an assignment.
+
+And some started with:
+
+### *"hmm... what's going on here?"*
+
+<br>
+
+---
+
+## ◉ ZOMATO
+
+<div align="center">
+
+<img src="./zomato.gif" width="58%" alt="restaurant and food">
+
+</div>
+
+**Spreadsheet Analysis · Excel · Data Cleaning · Business Analysis**
+
+Explored restaurant data to understand pricing, cuisines, locations and possible expansion opportunities.
+
+**[view project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
+
+---
+
+## ◉ COLUMBIA ASIA HOSPITAL
+
+<div align="center">
+
+<img src="./hospital.gif" width="58%" alt="doctor and hospital">
+
+</div>
+
+**SQL · Power BI · DAX · Power Query**
+
+Analysed patients, departments, waiting time, revenue and satisfaction to turn hospital data into meaningful insights.
+
+**[view project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
+
+---
+
+## ◉ SOCIAL MEDIA ANALYSIS
+
+<div align="center">
+
+<img src="./social-media.gif" width="58%" alt="mobile phone and social media">
+
+</div>
+
+**SQL · Engagement · User Behaviour · Data Quality**
+
+A closer look at how users interact, where engagement comes from, and what the data can actually tell us.
+
+**[view project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="45%" alt="orbit">
+
+</div>
+
+<br>
 
 # the toolbox
 
@@ -204,14 +156,19 @@ It made me appreciate something I keep running into:
 
 <br>
 
-I like tools that help me go from **"there's something here"** to  
+I like tools that help me go from
+
+**"there's something here"**
+
+to
+
 **"okay, now I understand what's going on."**
 
 ---
 
 <div align="center">
 
-<img src="./curiosity.svg" width="68%" alt="curiosity">
+<img src="./curiosity.gif" width="55%" alt="curiosity">
 
 </div>
 
@@ -227,9 +184,9 @@ Why does a dataset always seem to have **one more weird thing** hiding in it?
 
 And why does *"I'll just check one thing"* almost never mean one thing?
 
-<br>
-
 ---
+
+<br>
 
 <div align="center">
 
@@ -259,25 +216,25 @@ That's probably why I keep coming back to the space between
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="58%" alt="orbit">
+<img src="./orbit-divider.svg" width="48%" alt="orbit">
 
-<br><br>
+<br>
 
-## currently exploring
+### currently exploring
 
 <br>
 
 `MACHINE LEARNING`
-&nbsp; ↓ &nbsp;
+&nbsp; → &nbsp;
 `EXPERIMENTATION`
-&nbsp; ↓ &nbsp;
+&nbsp; → &nbsp;
 `STATISTICS`
-&nbsp; ↓ &nbsp;
+&nbsp; → &nbsp;
 `HUMAN BEHAVIOUR`
-&nbsp; ↓ &nbsp;
+&nbsp; → &nbsp;
 `BUSINESS QUESTIONS`
-&nbsp; ↓ &nbsp;
-**"ohh..."**
+&nbsp; → &nbsp;
+**ohh...**
 
 </div>
 
@@ -304,7 +261,7 @@ Which is probably the whole point.
 
 `THE UNIVERSE IS STILL EXPANDING.`
 
-<br><br>
+<br>
 
 🐈
 
