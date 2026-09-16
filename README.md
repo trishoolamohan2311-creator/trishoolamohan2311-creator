@@ -1,32 +1,59 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=150&section=header&text=Charu%20Trishoola%20Mohan%20Udaiyar&fontSize=32&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Charu%20Trishoola%20Mohan%20Udaiyar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Economics%20Graduate%20%7C%20Curious%20by%20default&descAlignY=65&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Charu;Economics+led+me+to+numbers+and+data;Now+I+chase+questions+with+no+obvious+answer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Hi%2C+I'm+Charu+%F0%9F%91%8B%3B+Economics+%E2%86%92+Data+%E2%86%92+Curiosity%3B+Turning+numbers+into+meaning%2C+one+query+at+a+time)](https://git.io/typing-svg)
 
-### About me
+## 📊 About Me
 
-I'm Charu Trishoola Mohan Udaiyar. I studied economics, and that's what got me curious about numbers and data in the first place. Somewhere along the way, figuring things out became the fun part.
+const charu = {
+title: "Data Analyst | Economics Graduate",
+background: "MA Economics, SNDT Women's University",
+currentFocus: "Newton School × NSDC Data Science & AI certification",
+toolkit: ["SQL (MySQL)", "Power BI", "Excel", "Python (beginner)"],
 
-> A dataset with a question that doesn't have an obvious answer, and the occasional rabbit hole that starts with *"let me just check one thing"* — that's usually where I end up.
+approach: "Ask the question that doesn't have an obvious answer, then chase it",
+funFact: "Started with 'let me just check one thing' more times than I can count"};
 
----
 
-### What I work with
+## 🛠️ Tech Arsenal
 
-![Skills](https://skillicons.dev/icons?i=mysql,python,git)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Power BI · Excel · SQL (MySQL) · Python (beginner)
+## 🎯 Featured Projects
 
----
+**🍽️ Zomato Market Expansion Analysis**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+Pivot-based market analysis to identify where Zomato could realistically expand next.
+🔗 [View repo](#)
 
-### A little bit of my GitHub, live
+**📱 Meta Instagram User Behaviour Analysis**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+SQL-driven dig into engagement patterns to figure out what actually drives user behaviour.
+🔗 [View repo](#)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+**🏥 Columbia Asia Hospital Dashboard**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Interactive dashboard turning hospital operations data into something decision-makers can actually read at a glance.
+🔗 [View repo](#)
 
----
+## 📈 GitHub Analytics
 
-### Find me elsewhere
+![Stats](https://github-readme-stats.vercel.app/api?username=trishoolamohan2311-creator&show_icons=true&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trishoolamohan2311-creator&theme=radical&hide_border=true)
 
-*(Substack link, LinkedIn, etc. — drop them here)*
+## 🐍 Contribution Activity
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)
+![Snake animation](https://raw.githubusercontent.com/trishoolamohan2311-creator/trishoolamohan2311-creator/output/github-snake-dark.svg)
+
+## ⚡ A Little Bit More
+const funFacts = {
+🧘 yoga: "SAI-certified Yogasana coach, competes in Senior Traditional & Artistic Single categories",
+🎨 creative: "Dancer, singer, sketch artist, painter",
+🏸 sport: "Badminton on the side",
+🧠 curiosity: "Behavioural economics as a lens for everyday decisions"
+};
+
+## 💬 Let's Connect
+
+*(Substack, LinkedIn, etc. — drop them here)*
+
+![Profile views](https://komarev.com/ghpvc/?username=trishoolamohan2311-creator&color=667EEA&style=for-the-badge)
