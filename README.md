@@ -1,3 +1,4 @@
+<img width="1200" height="360" alt="charu-galaxy" src="https://github.com/user-attachments/assets/053a940c-970a-4dfa-8b1b-0455de3aad7c" />
 <div align="center">
 
 <img src="./assets/charu-galaxy.gif" width="100%" alt="Charu's universe — economics, data, questions and curiosity">
