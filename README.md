@@ -1,67 +1,319 @@
+<!-- =========================
+     CHARU'S GITHUB PORTFOLIO
+     ========================= -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=280&section=header&text=Charu%20Trishoola%20Mohan%20Udaiyar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Economics%20Graduate%20%7C%20Curious%20by%20default&descAlignY=65&descSize=18)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF8C42&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Hi%2C+I'm+Charu+%F0%9F%91%8B%3B+Economics+%E2%86%92+Data+%E2%86%92+Curiosity%3B+Turning+numbers+into+meaning%2C+one+query+at+a+time)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E85D04,100:0D1117&height=220&section=header&text=CHARU%20TRISHOOLA%20MOHAN%20UDAIYAR&fontSize=38&fontColor=F5F0E8&fontAlignY=42&animation=fadeIn" width="100%"/>
 
-## 📊 About Me
+<br>
 
+### Hey, I'm Charu :>
+
+</div>
+
+I studied Economics, and that really piqued my interest in numbers and data. Along the way, figuring things out became fun!
+
+A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with *"let me just check one thing"* — that's usually where I end up.
+
+<br>
+
+<div align="center">
+
+`economics` &nbsp; → &nbsp; `statistics` &nbsp; → &nbsp; `data` &nbsp; → &nbsp; `questions`
+
+🐈
+
+</div>
+
+<br>
+
+---
+
+## a little about me →
+
+I'm interested in the space where **numbers meet people and decisions**.
+
+My background started with Economics, moved through Statistics and Data Analysis, and gradually became a habit of asking slightly too many questions about what the numbers are actually saying.
+
+I enjoy taking something messy, finding the useful bits, and turning them into something that makes sense.
+
+Sometimes that's SQL.
+
+Sometimes it's a spreadsheet.
+
+Sometimes it's a dashboard.
+
+And sometimes it's just me staring at a number thinking,
+
+> *"hmm... that's odd."*
+
+<br>
+
+---
+
+## things I work with →
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Data & Analysis
+
+- SQL
+- Excel
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### Statistics & Business
+
+- Statistics
+- Hypothesis Testing
+- A/B Testing
+- Regression
+- Business Analysis
+- Decision Making
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Visualisation
+
+- Power BI
+- DAX
+- Power Query
+- Matplotlib
+- Dashboards
+- Data Storytelling
+
+</td>
+
+<td width="50%" valign="top">
+
+### Currently learning
+
+- Machine Learning
+- Data Science
+- Statistical Modelling
+- More ways to ask better questions
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+# things I've worked on →
+
+<div align="center">
+
+### 01 — Zomato Restaurant Analysis 🍽️
+
+**Where should Zomato expand next?**
+
+A restaurant dataset turned into a market-expansion question.
+
+`Excel` · `Data Cleaning` · `Pivot Tables` · `Business Analysis`
+
+[→ View project](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)
+
+<br>
+
+---
+
+### 02 — Columbia Asia Hospital Analytics 🏥
+
+**What does hospital data tell us?**
+
+Looking at patients, departments, waiting time, satisfaction and revenue through SQL and Power BI.
+
+`SQL` · `Power BI` · `DAX` · `Power Query`
+
+[→ View project](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)
+
+<br>
+
+---
+
+### 03 — Social Media Analysis 📱
+
+**What makes people engage?**
+
+Using SQL to explore users, posts, engagement patterns and the questions hiding behind them.
+
+`SQL` · `Data Quality` · `Engagement Analysis` · `Business Insights`
+
+[→ View project](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)
+
+<br>
+
+---
+
+### 04 — Twitter Overspending A/B Testing 🐦
+
+**Does changing the experience change the outcome?**
+
+An A/B testing project looking at experimental groups, behaviour and statistical evidence.
+
+`Python` · `Statistics` · `A/B Testing`
+
+<br>
+
+---
+
+### 05 — Linear Regression & Gradient Descent 📈
+
+**How does experience relate to salary?**
+
+A hands-on exploration of linear regression, cost functions and gradient descent.
+
+`Python` · `Regression` · `Gradient Descent`
+
+<br>
+
+</div>
+
+---
+
+## a small detour into economics →
+
+<div align="center">
+
+> *"How selfish soever man may be supposed..."*  
+> **— Adam Smith**
+
+<br>
+
+*Some questions about people are easier to ask with data.*
+
+</div>
+
+<br>
+
+---
+
+## how I usually approach a problem →
+
+```text
+      a question
+           ↓
+      some data
+           ↓
+      "wait, why?"
+           ↓
+       explore
+           ↓
+        test
+           ↓
+       explain
+           ↓
+     make it useful
+````
+
+I don't always know where the rabbit hole will end.
+
+That's usually the interesting part.
+
+<br>
+
+---
+
+## currently curious about →
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+📊
+**Patterns**
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+**Behaviour**
+
+</td>
+
+<td align="center" width="25%">
+
+📈
+**Markets**
+
+</td>
+
+<td align="center" width="25%">
+
+🔎
+**Questions**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+I'm particularly interested in how **economics, statistics and data** can come together to explain things that aren't obvious at first glance.
+
+---
+
+## a few things I like →
+
+```text
+good questions
+        +
+messy datasets
+        +
+statistics
+        +
+a little curiosity
+        =
+usually a rabbit hole
 ```
-const charu = {
-    title: "Data Analyst | Economics Graduate",
-    background: "MA Economics, SNDT Women's University",
-    currentFocus: "Newton School × NSDC Data Science & AI certification",
 
-    toolkit: ["SQL (MySQL)", "Power BI", "Excel", "Python (beginner)"],
+And yes, there is probably a cat somewhere nearby.
 
-    approach: "Ask the question that doesn't have an obvious answer, then chase it",
-    funFact: "Started with 'let me just check one thing' more times than I can count"
-};
+```text
+ /\_/\
+( o.o )
+ > ^ <
 ```
 
-## 🛠️ Tech Arsenal
+<br>
 
-![SQL](https://img.shields.io/badge/MySQL-FF8C42?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-FFA500?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-FF6B35?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Python](https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 🎯 Featured Projects
+## let's connect →
 
-**🍽️ Zomato Market Expansion Analysis**
-![Excel](https://img.shields.io/badge/Excel-FF6B35?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-Pivot-based market analysis to identify where Zomato could realistically expand next.
-🔗 [View repo](#)
+<div align="center">
 
-**📱 Meta Instagram User Behaviour Analysis**
-![MySQL](https://img.shields.io/badge/MySQL-FF8C42?style=for-the-badge&logo=mysql&logoColor=white)
-SQL-driven dig into engagement patterns to figure out what actually drives user behaviour.
-🔗 [View repo](#)
+<a href="https://github.com/trishoolamohan2311-creator">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F48C06"/>
+</a>
 
-**🏥 Columbia Asia Hospital Dashboard**
-![Power BI](https://img.shields.io/badge/Power_BI-FFA500?style=for-the-badge&logo=powerbi&logoColor=black)
-Interactive dashboard turning hospital operations data into something decision-makers can actually read at a glance.
-🔗 [View repo](#)
+<a href="mailto:trishoolamohan.2311@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F48C06"/>
+</a>
 
-## 📈 GitHub Analytics
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=trishoolamohan2311-creator&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=FF8C42&icon_color=FFA500&text_color=c9d1d9)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trishoolamohan2311-creator&theme=dark&hide_border=true&background=1a1a2e&stroke=FF8C42&ring=FFA500&fire=FF6B35&currStreakLabel=FF8C42)
+<br>
 
-## 🐍 Contribution Activity
+<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/trishoolamohan2311-creator/trishoolamohan2311-creator/output/github-snake-dark.svg)
+### still curious. still figuring things out. 🧡
 
-## ⚡ A Little Bit More
-
-```
-const funFacts = {
-    🧘 yoga: "SAI-certified Yogasana coach, competes in Senior Traditional & Artistic Single categories",
-    🎨 creative: "Dancer, singer, sketch artist, painter",
-    🏸 sport: "Badminton on the side",
-    🧠 curiosity: "Behavioural economics as a lens for everyday decisions"
-};
-```
-
-## 💬 Let's Connect
-
-*(Substack, LinkedIn, etc. — drop them here)*
-
-![Profile views](https://komarev.com/ghpvc/?username=trishoolamohan2311-creator&color=FF8C42&style=for-the-badge)
+</div>
 ```
