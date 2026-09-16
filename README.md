@@ -1,4 +1,5 @@
-[![Charu's little universe](https://raw.githubusercontent.com/trishoolamohan2311-creator/trishoolamohan2311-creator/main/galaxy-banner.svg)](/trishoolamohan2311-creator/trishoolamohan2311-creator/blob/main/galaxy-banner.svg)
+
+<img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
 
 # CHARU TRISHOOLA
 
