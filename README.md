@@ -6,7 +6,7 @@
 
 # CHARU TRISHOOLA
 
-### economics · data · curiosity · a little design
+### economics · data · curiosity · analysis · design
 
 <br>
 
