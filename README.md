@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+<img src="./charu-galaxy.gif" width="100%">
 <div align="center">
 
 <img src="./orbit-divider.svg" width="55%" alt="orbit">
