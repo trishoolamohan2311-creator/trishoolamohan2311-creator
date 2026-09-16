@@ -18,10 +18,6 @@
 
 ---
 
-<div align="center">
-
-<img src="./orbit-divider.svg" width="80%" alt="orbit">
-
 </div>
 
 <br>
@@ -34,13 +30,13 @@ I studied Economics, and that really piqued my interest in numbers and data.
 Along the way, figuring things out became fun!
 
 A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with  
-*"let me just check one thing"* — that's usually where I end up.
+*"let me just check one thing"* -> that's usually where I end up.
 
 <br>
 
 <div align="center">
 
-<img src="./mind-heart.svg" width="90%" alt="mind and heart">
+<img src="./mind-heart.svg" width="100%" alt="mind and heart">
 
 </div>
 
@@ -65,10 +61,6 @@ which is where the small bit of design comes in.
 
 ---
 
-<div align="center">
-
-<img src="./orbit-divider.svg" width="70%" alt="orbit">
-
 </div>
 
 <br>
@@ -80,7 +72,7 @@ Some started with an assignment.
 
 And some started with:
 
-### *"hmm... what's going on here?"*
+### *"hmm... what's going on here!?!"*
 
 <br>
 
@@ -140,10 +132,6 @@ A closer look at how users interact, where engagement comes from, and what the d
 
 ---
 
-<div align="center">
-
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
-
 </div>
 
 <br>
@@ -177,7 +165,7 @@ to
 
 <div align="center">
 
-<img src="./curiosity.svg" width="90%" alt="curiosity">
+<img src="./curiosity.svg" width="100%" alt="curiosity">
 
 </div>
 
@@ -194,10 +182,6 @@ Why does a dataset always seem to have **one more weird thing** hiding in it?
 And why does *"I'll just check one thing"* almost never mean one thing?
 
 ---
-
-<div align="center">
-
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 <br><br>
 
@@ -222,11 +206,6 @@ That's probably why I keep coming back to the space between
 **data, decisions and people.**
 
 ---
-
-<div align="center">
-
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
-
 <br><br>
 
 # currently exploring
@@ -264,10 +243,6 @@ I'm still learning, still building, and still finding new things to investigate.
 Which is probably the whole point.
 
 ---
-
-<div align="center">
-
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 <br><br>
 
