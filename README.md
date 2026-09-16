@@ -1,34 +1,42 @@
 <div align="center">
 
-<img src="./charu-galaxy.gif" width="100%" alt="Charu's universe">
+<img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
 
-<br>
+<br><br>
 
 # CHARU TRISHOOLA
 
 ### economics · data · curiosity · a little design
 
-`MUMBAI / INDIA`
+<br>
+
+`MUMBAI / INDIA` &nbsp; ✦ &nbsp; `NUMBERS` &nbsp; ✦ &nbsp; `QUESTIONS` &nbsp; ✦ &nbsp; `VISUALS`
 
 </div>
 
-<br>
-
 ---
 
-## About me
+<div align="center">
+
+<img src="./orbit-divider.svg" width="85%" alt="orbit">
+
+</div>
+
+# a little about me
 
 I'm Charu Trishoola Mohan Udaiyar.
 
-I studied Economics, and that really piqued my interest in numbers and data. Along the way, figuring things out became fun.
+I studied Economics, and that really piqued my interest in numbers and data.  
+Along the way, figuring things out became fun!
 
-A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with *"let me just check one thing"* — that's usually where I end up.
+A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with  
+*"let me just check one thing"* — that's usually where I end up.
 
 <br>
 
 <div align="center">
 
-<img src="./mind-heart.svg" width="45%" alt="Mind and heart">
+<img src="./mind-heart.svg" width="95%" alt="mind and heart">
 
 </div>
 
@@ -36,96 +44,217 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 I like the part where **numbers meet people**.
 
-Economics makes me ask why. Data gives me a way to investigate it. And a little design helps me make what I find easier to see and understand.
+The numbers tell me *what is happening*.  
+Economics makes me ask *why*.  
+And data gives me a way to investigate it.
+
+I also like making things **look clear, interesting and a little more human** —  
+which is where the small bit of design comes in.
+
+<br>
+
+<div align="center">
+
+### hmm... → let me check one thing → ohh...
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="75%" alt="orbit">
+
+</div>
+
+# things I've figured out so far
+
+Some started with a dataset.  
+Some started with an assignment.
+
+And some started with:
+
+### *"hmm... what's going on here?"*
 
 <br>
 
 ---
 
-## Projects
-
-### Zomato — Restaurant Expansion Analysis
+# ◉ ZOMATO
 
 <div align="center">
 
-<img src="./zomato.gif" width="55%" alt="Restaurant and food">
+<img src="./zomato.gif" width="100%" alt="food and restaurant visual">
 
 </div>
 
-**Excel · Data Cleaning · Analysis · Business Insights**
+### Spreadsheet Analysis · Excel · Data Cleaning · Business Analysis
 
 Explored restaurant data to understand pricing, cuisines, locations and possible expansion opportunities.
 
-**[View project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
+**[view project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
 
-<br>
+---
 
-### Columbia Asia Hospital — Analytics Dashboard
+# ◉ COLUMBIA ASIA HOSPITAL
 
 <div align="center">
 
-<img src="./hospital.gif" width="55%" alt="Doctor and hospital">
+<img src="./hospital.gif" width="100%" alt="doctor and hospital visual">
 
 </div>
 
-**SQL · Power BI · DAX · Power Query**
+### SQL · Power BI · DAX · Power Query
 
 Analysed patients, departments, waiting time, revenue and satisfaction to turn hospital data into meaningful insights.
 
-**[View project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
-
-<br>
-
-### Social Media Analysis
-
-<div align="center">
-
-<img src="./social-media.gif" width="55%" alt="Mobile phone and social media">
-
-</div>
-
-**SQL · User Behaviour · Engagement · Data Quality**
-
-Explored user interactions and engagement patterns to understand what the data reveals about behaviour.
-
-**[View project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
-
-<br>
+**[view project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
 
 ---
 
-## Tools
+# ◉ SOCIAL MEDIA ANALYSIS
 
-**Excel · SQL · Power BI · DAX · Python · Statistics · Machine Learning**
+<div align="center">
 
-<br>
+<img src="./social-media.gif" width="100%" alt="mobile and social media visual">
 
-I'm interested in the space between **data, decisions and people**.
+</div>
+
+### SQL · Engagement · User Behaviour · Data Quality
+
+A closer look at how users interact, where engagement comes from, and what the data can actually tell us.
+
+**[view project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
 
 ---
 
 <div align="center">
 
-### hmm... → let me check one thing → ohh.
+<img src="./orbit-divider.svg" width="75%" alt="orbit">
+
+</div>
+
+# the toolbox
+
+<div align="center">
+
+<img src="./toolbox.svg" width="95%" alt="Charu's analytical toolbox">
 
 </div>
 
 <br>
 
-Still learning. Still building. Still finding things worth looking into.
+I like tools that help me go from
 
-<br>
+### **"there's something here"**
+
+to
+
+### **"okay, now I understand what's going on."**
+
+---
 
 <div align="center">
 
-**[GitHub](https://github.com/trishoolamohan2311-creator) · [Email](mailto:trishoolamohan.2311@gmail.com)**
+<img src="./curiosity.svg" width="95%" alt="curiosity">
+
+</div>
+
+# things that keep me curious
+
+Why do people behave differently when the numbers change?
+
+Why does one metric look perfectly fine until you split it by something else?
+
+Why does a dataset always seem to have **one more weird thing** hiding in it?
+
+And why does *"I'll just check one thing"* almost never mean one thing?
+
+---
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="70%" alt="orbit">
 
 <br><br>
 
-*the universe is still expanding.*
+### a small thought from Adam Smith
 
 <br>
 
+*"How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others."*
+
+<br>
+
+**— Adam Smith, _The Theory of Moral Sentiments_**
+
+</div>
+
+<br>
+
+I like this idea because numbers can tell us what people do,  
+but they don't always tell us **why it matters to them**.
+
+That's probably why I keep coming back to the space between  
+**data, decisions and people.**
+
+---
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="70%" alt="orbit">
+
+<br><br>
+
+# currently exploring
+
+<br>
+
+### `MACHINE LEARNING`
+### ↓
+### `EXPERIMENTATION`
+### ↓
+### `STATISTICS`
+### ↓
+### `HUMAN BEHAVIOUR`
+### ↓
+### `BUSINESS QUESTIONS`
+### ↓
+### **ohh...**
+
+</div>
+
+<br>
+
+I'm still learning, still building, and still finding new things to investigate.
+
+Which is probably the whole point.
+
+---
+
+<div align="center">
+
+<img src="./orbit-divider.svg" width="70%" alt="orbit">
+
+<br><br>
+
+### ✦ if you found your way here ✦
+
+<br>
+
+**[GitHub](https://github.com/trishoolamohan2311-creator)**  
+**[Email](mailto:trishoolamohan.2311@gmail.com)**
+
+<br><br>
+
+### `THE UNIVERSE IS STILL EXPANDING.`
+
+<br><br>
+
 🐈
+
+<br>
+
+<sub>probably investigating something completely unrelated.</sub>
 
 </div>
