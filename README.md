@@ -1,6 +1,8 @@
 
+<div align="center">
 
-<img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
+  <img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
+<br><br>
 
 # CHARU TRISHOOLA
 
