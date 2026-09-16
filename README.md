@@ -1,117 +1,154 @@
-<img width="1200" height="360" alt="charu-galaxy" src="https://github.com/user-attachments/assets/053a940c-970a-4dfa-8b1b-0455de3aad7c" />
 <div align="center">
 
-<img src="./assets/charu-galaxy.gif" width="100%" alt="Charu's universe — economics, data, questions and curiosity">
+<img src="./charu-galaxy.gif" width="100%" alt="Charu's universe">
 
-<br>
+<br><br>
 
-charu.exe ↗
+<sub><code>charu.exe ↗</code></sub>
 
-economics → data → questions → people
+<h3>economics → data → questions → people</h3>
 
-<br>
+<sub>somewhere between a spreadsheet and a rabbit hole.</sub>
+
+<br><br>
+
+<a href="#about">about</a>
+&nbsp; · &nbsp;
+<a href="#projects">projects</a>
+&nbsp; · &nbsp;
+<a href="#tools">tools</a>
+&nbsp; · &nbsp;
+<a href="#curiosity">curiosity</a>
+&nbsp; · &nbsp;
+<a href="#contact">contact</a>
 
 </div>
 
+<br>
+
+<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+
+## about
+
 <div align="center">
 
-01 / about　 02 / projects　 03 / tools　 04 / curiosity
+<img src="./assets/mind-heart.svg" width="100%" alt="a mind for numbers, a heart for people">
 
 </div>
 
 <br>
 
-a little about me
+I'm **Charu Trishoola Mohan Udaiyar**. I studied Economics, and that really piqued my interest in numbers and data. Along the way, figuring things out became fun.
 
-I'm Charu Trishoola Mohan Udaiyar. I studied Economics, and that really piqued my interest in numbers and data. Along the way, figuring things out became fun.
-
-A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with "let me just check one thing" — that's usually where I end up.
+A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with *"let me just check one thing"* — that's usually where I end up.
 
 <br>
 
 <div align="center">
 
-🧠 a mind for numbers　　↔　　❤️ a heart for people
+`economics`　→　`statistics`　→　`data`　→　`questions`
 
 </div>
 
-things i've worked on
+<br>
 
-real datasets. real questions. real rabbit holes.
+<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
 
-01
-
-02
-
-Zomato Restaurant Analysis
-
-Columbia Asia Hospital Analytics
-
-Excel · Data Cleaning · Business Analysis
-
-SQL · Power BI · DAX · Power Query
-
-Where should expansion happen next?
-
-What does hospital data tell us?
-
-03
-
-04
-
-Social Media Analysis
-
-Twitter Overspending A/B Testing
-
-SQL · Engagement · Behaviour
-
-Python · Statistics · A/B Testing
-
-What makes people engage?
-
-Does changing the experience change the outcome?
-
-More projects will find their way here as the universe expands.
-
-the things i use
-
-SQL　Excel　Power BI　Python
-Statistics　DAX　Data Analysis　Storytelling
+## projects
 
 <div align="center">
 
-✦ ──────────────── ○ ──────────────── ✦
+<a href="https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis">
+<img src="./assets/project-01.svg" width="48%" alt="Zomato Restaurant Analysis">
+</a>
 
-“People's behaviour, choices and interactions are complex — and that's what makes it interesting.”
-— Adam Smith
+<a href="https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics">
+<img src="./assets/project-02.svg" width="48%" alt="Columbia Asia Hospital Analytics">
+</a>
 
-✦ ──────────────── ○ ──────────────── ✦
+<br>
+
+<a href="https://github.com/trishoolamohan2311-creator/social-media-analysis-project">
+<img src="./assets/project-03.svg" width="48%" alt="Social Media Analysis">
+</a>
+
+<img src="./assets/project-04.svg" width="48%" alt="Twitter Overspending A/B Testing">
 
 </div>
 
-currently curious about
+<br>
 
-Machine Learning　 Behaviour　 Markets　 Better Questions
+<div align="center">
+
+<sub>four rabbit holes so far. more will appear as the universe expands.</sub>
+
+</div>
+
+<br>
+
+<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+
+## tools
+
+<div align="center">
+
+| `DATA` | `ANALYSIS` | `VISUAL` | `CODE` |
+|:---:|:---:|:---:|:---:|
+| SQL | Statistics | Power BI | Python |
+| Excel | DAX | Data Storytelling | Power Query |
+
+</div>
 
 <br>
 
 <div align="center">
 
-the universe is still expanding.
+**I like tools that help turn "hmm..." into "ohhh."**
 
-let's connect →
-
-GitHub ·
-Email
+</div>
 
 <br>
 
+<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+
+## curiosity
+
+<div align="center">
+
+<img src="./assets/curiosity.svg" width="100%" alt="currently curious about machine learning, behaviour, markets and better questions">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### a small pause for the economist in me
+
+> *“People's behaviour, choices and interactions are complex — and that's what makes it interesting.”*  
+> — **Adam Smith**
+
+</div>
+
+<br>
+
+<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+
+## contact
+
+<div align="center">
+
+**the universe is still expanding.**
+
+<br><br>
+
+[GitHub](https://github.com/trishoolamohan2311-creator)
+&nbsp; · &nbsp;
+[Email](mailto:trishoolamohan.2311@gmail.com)
+
+<br><br>
+
+```text
  /\_/\
 ( o.o )
  > ^ <
-
-<br>
-
-<sub>made with curiosity & a suspicious number of tabs open.</sub>
-
-</div>
