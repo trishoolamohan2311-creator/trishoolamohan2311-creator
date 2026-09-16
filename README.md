@@ -1,63 +1,116 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Charu's%20Universe&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=economics%20%E2%86%92%20data%20%E2%86%92%20questions&descAlignY=62&descSize=18)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=hey%2C+i'm+Charu+%F0%9F%8C%8C%3B+economics+%E2%86%92+data+%E2%86%92+questions%3B+chasing+the+one+that+doesn't+have+an+obvious+answer)](https://git.io/typing-svg)
+<img src="./assets/charu-galaxy.gif" width="100%" alt="Charu's universe — economics, data, questions and curiosity">
 
-![Stars](https://raw.githubusercontent.com/yoshi389111/yoshi389111/master/octocat.gif)
+<br>
+
+charu.exe ↗
+
+economics → data → questions → people
+
+<br>
 
 </div>
 
----
-
 <div align="center">
 
-### 🧠 ── both / and ── ❤️
-
-**a mind for numbers · a heart for people**
+01 / about　 02 / projects　 03 / tools　 04 / curiosity
 
 </div>
 
-I'm Charu Trishoola Mohan Udaiyar. I studied economics, and that's what got me curious about numbers and data in the first place. Somewhere along the way, figuring things out became the fun part.
+<br>
 
-> A dataset with a question that doesn't have an obvious answer, and the occasional rabbit hole that starts with *"let me just check one thing"* — that's usually where I end up.
+a little about me
 
----
+I'm Charu Trishoola Mohan Udaiyar. I studied Economics, and that really piqued my interest in numbers and data. Along the way, figuring things out became fun.
 
-### ✦ Projects, orbiting
+A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with "let me just check one thing" — that's usually where I end up.
 
-| 🍽️ Zomato | 🏥 Columbia Asia | 📱 Instagram Behaviour |
-|:---:|:---:|:---:|
-| Market expansion analysis | Hospital ops dashboard | Engagement patterns, SQL-driven |
-| `Excel` | `Power BI` | `MySQL` |
-| [View repo](#) | [View repo](#) | [View repo](#) |
-
----
-
-### ✦ Tools I orbit with
-
-![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=FFA500) ![Power BI](https://img.shields.io/badge/Power_BI-302b63?style=for-the-badge&logo=powerbi&logoColor=FFA500) ![Excel](https://img.shields.io/badge/Excel-24243e?style=for-the-badge&logo=microsoftexcel&logoColor=FFA500) ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFA500)
-
----
-
-### ✦ Currently curious about
-
-Behavioural economics · Machine learning basics · What makes a question worth chasing
-
----
-
-### ✦ A little more — mind meets heart
-
-🧘 SAI-certified Yogasana coach, competing in Senior Traditional & Artistic Single categories
-🎨 Dancer, singer, sketch artist, painter
-🏸 Badminton on the side
-
----
+<br>
 
 <div align="center">
 
-**Enter the full universe →** *(link once your website is live)*
+🧠 a mind for numbers　　↔　　❤️ a heart for people
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+things i've worked on
+
+real datasets. real questions. real rabbit holes.
+
+01
+
+02
+
+Zomato Restaurant Analysis
+
+Columbia Asia Hospital Analytics
+
+Excel · Data Cleaning · Business Analysis
+
+SQL · Power BI · DAX · Power Query
+
+Where should expansion happen next?
+
+What does hospital data tell us?
+
+03
+
+04
+
+Social Media Analysis
+
+Twitter Overspending A/B Testing
+
+SQL · Engagement · Behaviour
+
+Python · Statistics · A/B Testing
+
+What makes people engage?
+
+Does changing the experience change the outcome?
+
+More projects will find their way here as the universe expands.
+
+the things i use
+
+SQL　Excel　Power BI　Python
+Statistics　DAX　Data Analysis　Storytelling
+
+<div align="center">
+
+✦ ──────────────── ○ ──────────────── ✦
+
+“People's behaviour, choices and interactions are complex — and that's what makes it interesting.”
+— Adam Smith
+
+✦ ──────────────── ○ ──────────────── ✦
+
+</div>
+
+currently curious about
+
+Machine Learning　 Behaviour　 Markets　 Better Questions
+
+<br>
+
+<div align="center">
+
+the universe is still expanding.
+
+let's connect →
+
+GitHub ·
+Email
+
+<br>
+
+ /\_/\
+( o.o )
+ > ^ <
+
+<br>
+
+<sub>made with curiosity & a suspicious number of tabs open.</sub>
+
+</div>
