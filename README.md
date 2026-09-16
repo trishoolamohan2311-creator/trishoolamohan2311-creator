@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./charu-galaxy.gif" width="100%" alt="Charu's galaxy">
+<img src="./charu-galaxy.gif" width="100%" alt="Charu's little universe">
 
-<br>
+<br><br>
 
 # CHARU TRISHOOLA
 
-### economics → numbers → questions → rabbit holes
+### economics · data · curiosity · a little design
 
 <br>
 
-`MUMBAI / INDIA` &nbsp;·&nbsp; `DATA ANALYST` &nbsp;·&nbsp; `ALWAYS CURIOUS`
+`MUMBAI / INDIA` &nbsp; ✦ &nbsp; `NUMBERS` &nbsp; ✦ &nbsp; `QUESTIONS` &nbsp; ✦ &nbsp; `VISUALS`
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="75%" alt="orbit">
+<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 </div>
 
@@ -40,7 +40,7 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <div align="center">
 
-<img src="./mind-heart.svg" width="70%" alt="mind and heart">
+<img src="./mind-heart.svg" width="68%" alt="mind and heart">
 
 </div>
 
@@ -52,14 +52,15 @@ The numbers tell me *what is happening*.
 Economics makes me ask *why*.  
 And data gives me a way to investigate it.
 
-So I tend to move between statistics, business questions, behaviour and the occasional completely unnecessary rabbit hole.
+Somewhere along the way, I also started caring about **how things look, feel and communicate** — hence the little bit of design that keeps sneaking in.
 
 ---
 
 <div align="center">
 
-`OBSERVATION_01`  
-`THE QUESTION IS USUALLY MORE INTERESTING THAN THE ANSWER.`
+`OBSERVATION_01`
+
+### THE QUESTION IS USUALLY MORE INTERESTING THAN THE ANSWER.
 
 </div>
 
@@ -73,7 +74,9 @@ Not everything here started with a perfectly formed question.
 
 Some started with a dataset.  
 Some started with an assignment.  
-Some started with *"hmm... what happens if I check this?"*
+Some started with:
+
+**"hmm..."**
 
 <br>
 
@@ -81,35 +84,53 @@ Some started with *"hmm... what happens if I check this?"*
 
 ### ◉ ZOMATO
 
-<img src="./project-01.svg" width="90%" alt="Zomato project">
+<img src="./project-01.svg" width="88%" alt="Zomato project">
 
 **Spreadsheet Analysis · Excel · Data Cleaning · Business Analysis**
 
 Explored restaurant data to understand pricing, cuisines, locations and possible expansion opportunities.
 
+<br>
+
 **[view project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
 
-<br><br>
+</div>
+
+<br>
+
+---
+
+<div align="center">
 
 ### ◉ COLUMBIA ASIA HOSPITAL
 
-<img src="./project-02.svg" width="90%" alt="Columbia Asia Hospital project">
+<img src="./project-02.svg" width="88%" alt="Columbia Asia Hospital project">
 
 **SQL · Power BI · DAX · Power Query**
 
 Looked at patients, departments, waiting time, revenue and satisfaction to turn hospital data into something a little easier to understand.
 
+<br>
+
 **[view project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
 
-<br><br>
+</div>
+
+<br>
+
+---
+
+<div align="center">
 
 ### ◉ SOCIAL MEDIA
 
-<img src="./project-03.svg" width="90%" alt="Social media analysis project">
+<img src="./project-03.svg" width="88%" alt="Social media analysis project">
 
 **SQL · Engagement · User Behaviour · Data Quality**
 
 A closer look at how users interact, where engagement comes from, and what the data can actually tell us.
+
+<br>
 
 **[view project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
 
@@ -121,19 +142,15 @@ A closer look at how users interact, where engagement comes from, and what the d
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="55%" alt="orbit">
+<img src="./orbit-divider.svg" width="48%" alt="orbit">
 
 <br><br>
 
-### one more rabbit hole ↓
-
-</div>
+### and then there was another rabbit hole...
 
 <br>
 
-<div align="center">
-
-<img src="./project-04.svg" width="75%" alt="Machine learning project">
+<img src="./project-04.svg" width="72%" alt="Linear Regression and Gradient Descent">
 
 </div>
 
@@ -143,27 +160,29 @@ A small dive into the mechanics behind prediction — from drawing a line throug
 
 **Python · Statistics · Machine Learning**
 
-This one made me appreciate something I keep running into:
+It made me appreciate something I keep running into:
 
 > Sometimes understanding *how* something works is more interesting than simply getting the answer.
 
 ---
 
-# the toolbox
+<br>
 
 <div align="center">
 
-### `I USE THESE TO ASK BETTER QUESTIONS`
+### hmm... → let me check one thing → ohh...
 
 <br>
 
-| | |
-|---|---|
-| 📊 **Analysis** | Excel · SQL · Statistics |
-| 📈 **Visualisation** | Power BI · DAX |
-| 🐍 **Code** | Python · Pandas · Matplotlib |
-| 🤖 **Learning** | Machine Learning · Experimentation |
-| 🧠 **Background** | Economics · Data · Business |
+`STATISTICS`
+&nbsp; ✦ &nbsp;
+`BEHAVIOUR`
+&nbsp; ✦ &nbsp;
+`ECONOMICS`
+&nbsp; ✦ &nbsp;
+`DATA`
+&nbsp; ✦ &nbsp;
+`DESIGN`
 
 </div>
 
@@ -171,9 +190,28 @@ This one made me appreciate something I keep running into:
 
 ---
 
+# the toolbox
+
 <div align="center">
 
-<img src="./curiosity.svg" width="70%" alt="curiosity">
+`EXCEL` &nbsp; · &nbsp; `SQL` &nbsp; · &nbsp; `POWER BI` &nbsp; · &nbsp; `DAX`
+
+`PYTHON` &nbsp; · &nbsp; `PANDAS` &nbsp; · &nbsp; `STATISTICS`
+
+`MACHINE LEARNING` &nbsp; · &nbsp; `ECONOMICS`
+
+</div>
+
+<br>
+
+I like tools that help me go from **"there's something here"** to  
+**"okay, now I understand what's going on."**
+
+---
+
+<div align="center">
+
+<img src="./curiosity.svg" width="68%" alt="curiosity">
 
 </div>
 
@@ -191,84 +229,82 @@ And why does *"I'll just check one thing"* almost never mean one thing?
 
 <br>
 
-<div align="center">
-
-`STATISTICS` &nbsp; ✦ &nbsp; `BEHAVIOUR` &nbsp; ✦ &nbsp; `ECONOMICS` &nbsp; ✦ &nbsp; `DATA`
-
-</div>
-
 ---
 
-<br>
-
 <div align="center">
 
-### a thought I keep coming back to
+### a small thought from Adam Smith
 
 <br>
 
-*"We endeavour to examine our own conduct as we imagine any other fair and impartial spectator would examine it."*
+*"How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others."*
 
 <br>
 
 **— Adam Smith, _The Theory of Moral Sentiments_**
 
-<br>
-
 </div>
 
 <br>
 
-For me, that's an interesting way of thinking about data too.
+I like this idea because numbers can tell us what people do,  
+but they don't always tell us **why it matters to them**.
 
-Step outside the first explanation.  
-Look again.  
-Question the obvious.
+That's probably why I keep coming back to the space between  
+**data, decisions and people.**
 
 ---
 
+<br>
+
 <div align="center">
 
-<img src="./orbit-divider.svg" width="65%" alt="orbit">
+<img src="./orbit-divider.svg" width="58%" alt="orbit">
+
+<br><br>
+
+## currently exploring
+
+<br>
+
+`MACHINE LEARNING`
+&nbsp; ↓ &nbsp;
+`EXPERIMENTATION`
+&nbsp; ↓ &nbsp;
+`STATISTICS`
+&nbsp; ↓ &nbsp;
+`HUMAN BEHAVIOUR`
+&nbsp; ↓ &nbsp;
+`BUSINESS QUESTIONS`
+&nbsp; ↓ &nbsp;
+**"ohh..."**
 
 </div>
 
 <br>
-
-# currently exploring
-
-```text
-machine learning
-        ↓
-experimentation
-        ↓
-statistics
-        ↓
-human behaviour
-        ↓
-business questions
-        ↓
-"wait... why?"
 
 I'm still learning, still building, and still finding new things to investigate.
 
 Which is probably the whole point.
 
+---
+
 <br>
+
 <div align="center">
-if you found your way here...
 
-You can find my work on
-GitHub
+### ✦ if you found your way here ✦
 
-or say hello at
-Email
+<br>
+
+**[GitHub](https://github.com/trishoolamohan2311-creator)**  
+**[Email](mailto:trishoolamohan.2311@gmail.com)**
 
 <br><br>
 
-THE UNIVERSE IS STILL EXPANDING.
+`THE UNIVERSE IS STILL EXPANDING.`
 
-<br>
+<br><br>
 
 🐈
 
@@ -276,4 +312,4 @@ THE UNIVERSE IS STILL EXPANDING.
 
 <sub>probably investigating something completely unrelated.</sub>
 
-</div> ```
+</div>
