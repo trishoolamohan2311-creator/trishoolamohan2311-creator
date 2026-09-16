@@ -6,11 +6,13 @@
 
 # CHARU TRISHOOLA
 
-### economics · data · curiosity · a little design
+### economics · data · curiosity · analyzing
 
 <br>
 
 `MUMBAI / INDIA` &nbsp; ✦ &nbsp; `NUMBERS` &nbsp; ✦ &nbsp; `QUESTIONS` &nbsp; ✦ &nbsp; `VISUALS`
+
+<br><br>
 
 </div>
 
@@ -18,9 +20,11 @@
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="85%" alt="orbit">
+<img src="./orbit-divider.svg" width="80%" alt="orbit">
 
 </div>
+
+<br>
 
 # a little about me
 
@@ -36,7 +40,7 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <div align="center">
 
-<img src="./mind-heart.svg" width="95%" alt="mind and heart">
+<img src="./mind-heart.svg" width="90%" alt="mind and heart">
 
 </div>
 
@@ -63,9 +67,11 @@ which is where the small bit of design comes in.
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="75%" alt="orbit">
+<img src="./orbit-divider.svg" width="70%" alt="orbit">
 
 </div>
+
+<br>
 
 # things I've figured out so far
 
@@ -84,13 +90,15 @@ And some started with:
 
 <div align="center">
 
-<img src="./zomato.gif" width="100%" alt="food and restaurant visual">
+<img src="./project-01.svg" width="78%" alt="Food and restaurant data visual">
 
 </div>
 
 ### Spreadsheet Analysis · Excel · Data Cleaning · Business Analysis
 
 Explored restaurant data to understand pricing, cuisines, locations and possible expansion opportunities.
+
+<br>
 
 **[view project →](https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis)**
 
@@ -100,13 +108,15 @@ Explored restaurant data to understand pricing, cuisines, locations and possible
 
 <div align="center">
 
-<img src="./hospital.gif" width="100%" alt="doctor and hospital visual">
+<img src="./project-02.svg" width="78%" alt="Doctor and hospital data visual">
 
 </div>
 
 ### SQL · Power BI · DAX · Power Query
 
 Analysed patients, departments, waiting time, revenue and satisfaction to turn hospital data into meaningful insights.
+
+<br>
 
 **[view project →](https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics)**
 
@@ -116,7 +126,7 @@ Analysed patients, departments, waiting time, revenue and satisfaction to turn h
 
 <div align="center">
 
-<img src="./social-media.gif" width="100%" alt="mobile and social media visual">
+<img src="./project-03.svg" width="78%" alt="Mobile phone and social media visual">
 
 </div>
 
@@ -124,21 +134,32 @@ Analysed patients, departments, waiting time, revenue and satisfaction to turn h
 
 A closer look at how users interact, where engagement comes from, and what the data can actually tell us.
 
+<br>
+
 **[view project →](https://github.com/trishoolamohan2311-creator/social-media-analysis-project)**
 
 ---
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="75%" alt="orbit">
+<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 </div>
+
+<br>
 
 # the toolbox
 
 <div align="center">
 
-<img src="./toolbox.svg" width="95%" alt="Charu's analytical toolbox">
+| 📊 | 🔎 | 📈 | 🐍 | 🧠 | 🎨 |
+|---|---|---|---|---|---|
+| **Excel** | **SQL** | **Power BI** | **Python** | **Statistics** | **Design** |
+| clean | query | visualise | build | understand | communicate |
+
+<br>
+
+`DAX` &nbsp; ✦ &nbsp; `PANDAS` &nbsp; ✦ &nbsp; `MACHINE LEARNING` &nbsp; ✦ &nbsp; `ECONOMICS`
 
 </div>
 
@@ -156,9 +177,11 @@ to
 
 <div align="center">
 
-<img src="./curiosity.svg" width="95%" alt="curiosity">
+<img src="./curiosity.svg" width="90%" alt="curiosity">
 
 </div>
+
+<br>
 
 # things that keep me curious
 
@@ -174,7 +197,7 @@ And why does *"I'll just check one thing"* almost never mean one thing?
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="70%" alt="orbit">
+<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 <br><br>
 
@@ -202,7 +225,7 @@ That's probably why I keep coming back to the space between
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="70%" alt="orbit">
+<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 <br><br>
 
@@ -210,16 +233,26 @@ That's probably why I keep coming back to the space between
 
 <br>
 
-### `MACHINE LEARNING`
-### ↓
-### `EXPERIMENTATION`
-### ↓
-### `STATISTICS`
-### ↓
-### `HUMAN BEHAVIOUR`
-### ↓
-### `BUSINESS QUESTIONS`
-### ↓
+### MACHINE LEARNING
+
+↓
+
+### EXPERIMENTATION
+
+↓
+
+### STATISTICS
+
+↓
+
+### HUMAN BEHAVIOUR
+
+↓
+
+### BUSINESS QUESTIONS
+
+↓
+
 ### **ohh...**
 
 </div>
@@ -234,7 +267,7 @@ Which is probably the whole point.
 
 <div align="center">
 
-<img src="./orbit-divider.svg" width="70%" alt="orbit">
+<img src="./orbit-divider.svg" width="65%" alt="orbit">
 
 <br><br>
 
