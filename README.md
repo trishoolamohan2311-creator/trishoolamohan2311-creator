@@ -26,13 +26,13 @@
 
 <br>
 
-<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+<img src="./orbit-divider.svg" width="100%" alt="orbit divider">
 
 ## about
 
 <div align="center">
 
-<img src="./assets/mind-heart.svg" width="100%" alt="a mind for numbers, a heart for people">
+<img src="./mind-heart.svg" width="100%" alt="a mind for numbers, a heart for people">
 
 </div>
 
@@ -52,27 +52,27 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <br>
 
-<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+<img src="./orbit-divider.svg" width="100%" alt="orbit divider">
 
 ## projects
 
 <div align="center">
 
 <a href="https://github.com/trishoolamohan2311-creator/Zomato_Spreadsheet_Analysis">
-<img src="./assets/project-01.svg" width="48%" alt="Zomato Restaurant Analysis">
+<img src="./project-01.svg" width="48%" alt="Zomato Restaurant Analysis">
 </a>
 
 <a href="https://github.com/trishoolamohan2311-creator/columbia-asia-hospital-analytics">
-<img src="./assets/project-02.svg" width="48%" alt="Columbia Asia Hospital Analytics">
+<img src="./project-02.svg" width="48%" alt="Columbia Asia Hospital Analytics">
 </a>
 
 <br>
 
 <a href="https://github.com/trishoolamohan2311-creator/social-media-analysis-project">
-<img src="./assets/project-03.svg" width="48%" alt="Social Media Analysis">
+<img src="./project-03.svg" width="48%" alt="Social Media Analysis">
 </a>
 
-<img src="./assets/project-04.svg" width="48%" alt="Twitter Overspending A/B Testing">
+<img src="./project-04.svg" width="48%" alt="Twitter Overspending A/B Testing">
 
 </div>
 
@@ -86,7 +86,7 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <br>
 
-<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+<img src="./orbit-divider.svg" width="100%" alt="orbit divider">
 
 ## tools
 
@@ -109,13 +109,13 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <br>
 
-<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+<img src="./orbit-divider.svg" width="100%" alt="orbit divider">
 
 ## curiosity
 
 <div align="center">
 
-<img src="./assets/curiosity.svg" width="100%" alt="currently curious about machine learning, behaviour, markets and better questions">
+<img src="./curiosity.svg" width="100%" alt="currently curious about machine learning, behaviour, markets and better questions">
 
 </div>
 
@@ -132,7 +132,7 @@ A dataset with no clear-cut answer to the question, and a few rabbit holes that 
 
 <br>
 
-<img src="./assets/orbit-divider.svg" width="100%" alt="orbit divider">
+<img src="./orbit-divider.svg" width="100%" alt="orbit divider">
 
 ## contact
 
