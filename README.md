@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### hey, i'm Charu Trishoola Mohan Udaiyar 🌌
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=hey%2C+i'm+Charu+%F0%9F%8C%8C%3B+economics+%E2%86%92+data+%E2%86%92+questions%3B+chasing+the+one+that+doesn't+have+an+obvious+answer)](https://git.io/typing-svg)
 
-*Economics → Statistics → Data*
+![Stars](https://raw.githubusercontent.com/yoshi389111/yoshi389111/master/octocat.gif)
 
 </div>
 
@@ -46,14 +46,6 @@ Behavioural economics · Machine learning basics · What makes a question worth 
 
 ---
 
-<div align="center">
-
-*"The real tragedy of the poor is the poverty of their aspirations." — Adam Smith*
-
-</div>
-
----
-
 ### ✦ A little more — mind meets heart
 
 🧘 SAI-certified Yogasana coach, competing in Senior Traditional & Artistic Single categories
@@ -66,6 +58,6 @@ Behavioural economics · Machine learning basics · What makes a question worth 
 
 **Enter the full universe →** *(link once your website is live)*
 
-![Profile views](https://komarev.com/ghpvc/?username=trishoolamohan2311-creator&color=302b63&style=for-the-badge)
-
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
