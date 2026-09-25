@@ -20,7 +20,7 @@ I studied Economics, and that's what got me curious about numbers and data in th
 Along the way, figuring things out became fun!
 
 A dataset with no clear-cut answer to the question, and a few rabbit holes that begin with  
-*"let me just check one thing"* → that's usually where I end up.
+*"let me just check one thing"* -> that's usually where I end up.
 
 <div align="center">
 
